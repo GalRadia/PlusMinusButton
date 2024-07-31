@@ -2,6 +2,9 @@
 
 `PlusMinusButton` is a custom Android widget that provides a simple interface for incrementing and decrementing a number within a specified range. This library is useful for applications that require user input for quantities, such as shopping carts, inventory management, or any numeric input.
 
+![image](https://github.com/user-attachments/assets/772b1518-d161-4ce1-8570-d0541703f673)
+
+
 ## Features
 
 - Increment and decrement buttons.
@@ -60,3 +63,5 @@ plusMinusButton.setOnMinusClickListener(v -> {
 -   `setOnPlusClickListener(OnClickListener listener)`: Sets the listener for the plus button.
 -   `setOnMinusClickListener(OnClickListener listener)`: Sets the listener for the minus button.
 -   `setRange(int min, int max)`: Sets the minimum and maximum range.
+
+
